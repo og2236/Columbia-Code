@@ -37,5 +37,5 @@ seconds = (user_value % one_minute)  # -- Remainder by modulo
 #
 # -- Displays the desired value and terminates
 
-print("The time is: ", hours, " hours ", minutes, " minutes ", seconds,
-      "seconds")
+print("The time is: ", hours, " hr ", minutes, " min ", seconds,
+      "sec")
